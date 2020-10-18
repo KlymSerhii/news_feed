@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "First news",
+    "text": "First news goes first"
+  },
+  {
+    "id": 2,
+    "title": "Second news",
+    "text": "Second news goes second"
+  },
+  {
+    "id": 3,
+    "title": "Third news",
+    "text": "Third news goes third"
+  },
+  {
+    "id": 4,
+    "title": "Fourth news",
+    "text": "Fourth news goes fourth"
+  },
+  {
+    "id": 5,
+    "title": "Fifth news",
+    "text": "Fifth news goes fifth"
+  },
+  {
+    "id": 6,
+    "title": "Sixth news",
+    "text": "Sixth news goes sixth"
+  }
+]
